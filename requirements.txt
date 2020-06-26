@@ -1,0 +1,44 @@
+# Tensorflow
+tensorflow-gpu==2.2.0
+tensorflow_probability
+
+# Jupyter
+jupyterlab
+
+# Mojoco
+mujoco_py
+
+# OpenAI Gym
+gym
+gym[all]
+
+# DeepMind's dm_control
+dm_control
+
+glfw>=1.4.0
+opencv-python
+moviepy
+imageio>=2.1.2
+imagehash>=3.4
+cffi>=1.10
+fasteners~=0.15
+
+numpy>=1.11
+numpydoc
+pandas
+matplotlib
+
+Cython>=0.27.2
+
+ipdb
+Pillow>=4.0.0
+
+pycparser>=2.17.0
+
+pytest>=3.0.5
+pytest-instafail==0.3.0
+
+sphinx
+sphinx_rtd_theme
+
+lockfile
