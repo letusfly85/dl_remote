@@ -1,6 +1,6 @@
 # Tensorflow
-tensorflow-gpu==2.2.0
-tensorflow_probability
+tensorflow-gpu==1.13.1
+tensorflow_probability==0.6.0
 
 # Jupyter
 jupyterlab
@@ -42,3 +42,7 @@ sphinx
 sphinx_rtd_theme
 
 lockfile
+
+scikit-image
+ruamel.yaml
+scipy
